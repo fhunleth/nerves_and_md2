@@ -1,6 +1,12 @@
 # NervesAndMd2
 
-**TODO: Add description**
+To reproduce:
+
+```sh
+export MIX_ENV=rpi0
+mix deps.get
+mix firmware
+```
 
 ## Targets
 
